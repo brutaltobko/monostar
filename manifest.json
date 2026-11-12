@@ -1,0 +1,15 @@
+{
+  "name": "Monostar",
+  "description": "Stars in the background, rounded everything, synced lyrics and six color schemes you can switch inside Spotify.",
+  "preview": "monostar.png",
+  "readme": "README.md",
+  "usercss": "Monostar/user.css",
+  "schemes": "Monostar/color.ini",
+  "include": [
+    "https://cdn.jsdelivr.net/gh/brutaltobko/monostar@main/Monostar/theme.js"
+  ],
+  "authors": [
+    { "name": "Tobko", "url": "https://github.com/brutaltobko" }
+  ],
+  "tags": ["dark", "minimal"]
+}
