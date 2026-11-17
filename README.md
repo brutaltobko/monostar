@@ -4,7 +4,7 @@
 
 Spicetify theme with stars in the background, rounded everything, synced lyrics on the right and six color schemes you can switch right inside Spotify.
 
-**Version 1.1.2**
+**Version 1.1.2** · [monostar.tobko.dev](https://monostar.tobko.dev)
 
 ## Features
 
