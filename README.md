@@ -4,7 +4,7 @@
 
 Spicetify theme with stars in the background, rounded everything, synced lyrics on the right and six color schemes you can switch right inside Spotify.
 
-**Version 1.1.2** · [monostar.tobko.dev](https://monostar.tobko.dev)
+**Version 1.1.3** · works on Spotify 1.3.10 · [monostar.tobko.dev](https://monostar.tobko.dev)
 
 ## Features
 
@@ -59,7 +59,9 @@ spicetify apply
 
 After a Spotify update, run `spicetify backup apply` to bring the theme back.
 
-## Updating from 1.1.1 to 1.1.2
+## Updating to 1.1.3
+
+1.1.3 is checked on Spotify 1.3.10. If Spotify updated and the theme is gone, run `spicetify backup apply` first.
 
 **Marketplace:** just restart Spotify, the new version loads by itself. If something looks off, open Marketplace → **Installed**, remove Monostar and install it again.
 
